@@ -1,0 +1,58 @@
+let ProtactsHover = [
+    {
+        id: 1,
+        image: "images/1.jpg",
+        name: "burger",
+        descrpition: "",
+        price: 400,
+        dataProtact: 'p-1',
+        view: '(233,743)',
+    },
+    {
+        id: 2,
+        image: "images/2.jpg",
+        name: "chicken",
+        dataProtact: 'p-2',
+        descrpition: "chains with primary producers at the bottom and apex",
+        price: 638,
+        view: '(23,823)',
+    },
+    {
+        id: 3,
+        image: "images/3.jpg",
+        name: "combo",
+        dataProtact: 'p-3',
+        descrpition: "diet consists of both animals and plants",
+        price: 900,
+        view: '(543,564)',
+    },
+    {
+        id: 4,
+        image: "images/4.jpg",
+        name: "Rice",
+        dataProtact: 'p-4',
+        descrpition: "finding sustenance in vegetables",
+        price: 290,
+        view: '(26,746)',
+    },
+    {
+        id: 5,
+        image: "images/5.jpg",
+        name: "noodels",
+        dataProtact: 'p-5',
+        descrpition: "Fungi and bacteria are also used in the preparation",
+        price: 870,
+        view: '(743,876)',
+    },
+    {
+        id: 6,
+        image: "images/6.jpg",
+        name: "pizza",
+        dataProtact: 'p-6',
+        descrpition: "with other important nutrients including calcium",
+        print: 210,
+        view: '(345,876)',
+    },
+]
+
+export default ProtactsHover
